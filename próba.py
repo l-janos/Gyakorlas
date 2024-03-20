@@ -1,0 +1,1 @@
+#Na ezzel mi a helyzet, ez hova fog kerülni?
