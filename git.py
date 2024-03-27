@@ -1,5 +1,4 @@
 print("Hello world!")
-szamok = []
+szamok = "1"
 for i in range(1, 101):
-    szamok.append(i)
-print(szamok)
+    print(szamok)
