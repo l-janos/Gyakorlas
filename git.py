@@ -1,5 +1,4 @@
 print("Hello world!")
-szamok = 0
+szamok = "1"
 for i in range(1, 101):
-    szamok+=i
-print(szamok)
+    print(szamok)
