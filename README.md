@@ -9,7 +9,7 @@
 2. git checkout -b newBranch-HA  
 3. git checkout *(ide írjuk az új branch nevét)*
 4. git push origin "branchNeve"
-###  leszeretnénk másolni az újításokat a gépre:
+###  le szeretnénk másolni az újításokat a gépre:
 1. git fetch
 2. git checkout branchName *(ha szükséges)*
 3. git pull
